@@ -3,4 +3,4 @@ This is the official repository for our ECCV 2022 paper titled, "[The Anatomy of
 
 ![image info](./overview.PNG)
 
-### Getting Started 3
+# Getting Started
