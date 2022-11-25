@@ -10,7 +10,7 @@ You can download all the labels in AVE using the following [link](https://drive.
 {
   "**scene id** (ex. xBr1UV3kWqA)":
   {
-    "**shot id** (ex. 02a91bd7-feda-4844-8a85-b01d43437140)":
+    "*shot id* (ex. 02a91bd7-feda-4844-8a85-b01d43437140)":
     {
       "**clip-type**": ["shot"]
       "**start-time**": [51.05]
