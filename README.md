@@ -9,13 +9,13 @@ You can download all the labels in AVE using the following [link](https://drive.
 ```json
 {
   "scene id: {
-  shot id: {
-  clip-type: ['shot']
-  start-time: []
-  end-time: []
-  shot-size: []
-  shot-type: []
-  }
-  }
+    shot id: {
+      clip-type: ['shot']
+      start-time: []
+      end-time: []
+      shot-size: []
+      shot-type: []
+      }
+    }
 }
 ```
