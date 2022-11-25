@@ -8,20 +8,22 @@ You can download all the labels in AVE using the following [link](https://drive.
 
 ```json
 {
-  "scene id (ex. xBr1UV3kWqA)": {
-    "shot id (ex. 02a91bd7-feda-4844-8a85-b01d43437140)": {
-      "clip-type": [shot]
+  "scene id (ex. xBr1UV3kWqA)":
+  {
+    "shot id (ex. 02a91bd7-feda-4844-8a85-b01d43437140)":
+    {
+      "clip-type": ['shot']
       "start-time": [51.05]
       "end-time": [62.15]
-      "shot-size": [medium]
-      "shot-angle": [low-angle]
-      "shot-type": [two-shot]
-      "shot-motion": [handheld]
-      "shot-subject": [human]
-      "shot-location": [int]
+      "shot-size": ['medium']
+      "shot-angle": ['low-angle']
+      "shot-type": ['two-shot']
+      "shot-motion": ['handheld']
+      "shot-subject": ['human']
+      "shot-location": ['int']
       "num-people": [2]
-      "sound-source": [on-screen]
-      }
+      "sound-source": ['on-screen']
     }
+  }
 }
 ```
