@@ -12,7 +12,7 @@ You can download all the labels in AVE using the following [link](https://drive.
   {
     "*shot id* (ex. 02a91bd7-feda-4844-8a85-b01d43437140)":
     {
-      "**clip-type**": ["shot"]
+      **"clip-type"**: ["shot"]
       "**start-time**": [51.05]
       "**end-time**": [62.15]
       "**shot-size**": ["medium"]
