@@ -35,7 +35,7 @@ You can download all the labels in AVE using the following [link](https://drive.
 
 #### Preparing AVE Dataset
 We do not own the movie clips used in this work. However, they are publicly available on the [MovieClips YouTube channel](https://www.youtube.com/@MOVIECLIPS). Please follow the following steps to obtain the AVE dataset,
-1. You can download all the movie scene clips using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) package and the scenes url file in the dataset folder
+1. You can download all the movie scene clips using the [yt-dlp](https://github.com/yt-dlp/yt-dlp) package and the scenes url file in the dataset folder.
 
 ```
 python3 -m pip install -U yt-dlp
