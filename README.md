@@ -48,3 +48,13 @@ Note that geographic restriction might be an issue when downloading some of the 
 sudo apt install ffmpeg
 python scenes_to_shots.py
 ```
+
+### Citation
+If you find our work to be useful, please don't forget to cite us.
+```bibtex
+@inproceedings{argaw2022anatomy,
+  Author    = {Argaw, Dawit Mureja and Heilbron, Fabian Caba and Lee, Joon-Young and Woodson, Markus and Kweon, In So},
+  Title     = {The Anatomy of Video Editing: A Dataset and Benchmark Suite for AI-Assisted Video Editing},
+  Booktitle = {ECCV},
+  Year      = {2022}}
+```
